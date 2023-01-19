@@ -1,0 +1,39 @@
+
+
+h1 {
+  color: rgb(106, 106, 106) !important;
+}
+/* slaidid */
+
+.Slaidid img {
+  width:100%;
+  margin: auto;
+}
+/* SLAIDERI NUPUD */
+.Slaideri-nupud {
+color: rgb(102, 102, 102);
+font-size: 70px;
+}
+
+.Slaider_prev,
+.Slaider_next {
+position: absolute;
+top: 40%;
+width: auto;
+padding: 16px;
+user-select: none;
+-webkit-user-select: none;
+border-radius:3px;
+cursor: pointer;
+BACKGROUND: TRANSPARENT;
+} 
+
+.Slaider_next {
+  right: 4rem;
+}
+
+.Slaider_prev {
+  left: 4rem;
+}
+
+
